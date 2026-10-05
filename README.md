@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! 👋 Eu sou Gabriel
+💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
 
-<!--
-**gabrielsantogtr/gabrielsantogtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias
+HTML
+CSS
+JavaScript
+Git & GitHub
+📚 Atualmente estudando
+Desenvolvimento Web
+JavaScript
+Git e GitHub
+Boas práticas de programação
