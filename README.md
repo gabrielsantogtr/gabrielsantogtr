@@ -1,9 +1,9 @@
-Olá! 👋 Eu sou Gabriel
+#Olá! 👋 Eu sou Gabriel
 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
 
 Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.
 
-🛠️ Tecnologias
+#🛠️ Tecnologias
 HTML
 CSS
 JavaScript
