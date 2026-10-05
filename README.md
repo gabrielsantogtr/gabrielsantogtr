@@ -5,13 +5,13 @@
 
 <p font-size: 20px;>Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.</p>
 
-<h3>🛠️ Tecnologias</h3>
+<h2>🛠️ Tecnologias</h2>
 <p>HTML<br>
 CSS<br>
 JavaScript<br>
 Git & GitHub</p>
 
-<h3>📚 Atualmente estudando</h3>
+<h2>📚 Atualmente estudando</h2>
 <p></p>Desenvolvimento Web<br>
 JavaScript<br>
 Git e GitHub<br>
