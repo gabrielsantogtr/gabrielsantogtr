@@ -3,7 +3,7 @@
 
 💻 Desenvolvedor em formação | 🚀 Apaixonado por tecnologia
 
-<p font-size: 20px;>Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.</p>
+<p>Sou estudante e estou aprendendo desenvolvimento de software, buscando evoluir cada vez mais através de projetos práticos e novos desafios.</p>
 
 <h2>🛠️ Tecnologias</h2>
 <p>HTML<br>
