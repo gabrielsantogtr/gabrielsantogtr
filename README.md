@@ -1,17 +1,14 @@
 <div align="center">
-  <table align="center" width="100%">
-    <tr><td align="center"><img src="./assets/stark-screen-top.svg" width="850" alt="Stark Industries — JARVIS online" /></td></tr>
-    <tr><td align="center"><img src="./assets/iron-man-arcade.svg" width="850" alt="Homem de Ferro pixel art animado na tela Stark" /></td></tr>
-    <tr><td align="center"><img src="./assets/stark-screen-bottom.svg" width="850" alt="Reator Arc — sistema ativo" /></td></tr>
-  </table>
-  <br /><br />
-  <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B6%20AC%2FDC%20%E2%80%94%20Back%20in%20Black-d5a347?style=for-the-badge&amp;logo=youtube&amp;logoColor=210b0c" alt="Ouvir Back in Black — AC/DC no YouTube" /></a>
-  <br />
-  <br />
-  <img src="./assets/profile-retro.svg" width="100%" alt="Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
+<img src="./assets/stark-v3.svg" width="100%" alt="Stark Industries 3.0 — Gabriel Santos" />
+<img src="./assets/iron-man-arcade.svg" width="100%" alt="Iron Man arcade animado" />
+<a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/SOUNDTRACK-Back_in_Black-d5a347?style=for-the-badge&amp;logo=youtube" alt="Back in Black" /></a>
 </div>
 
-<div align="center"><img src="./assets/jarvis-panel.svg" width="100%" alt="Painel JARVIS e reator Arc" /></div>
+## Sobre mim
+
+Sou estudante de Tecnologia em Sistemas para Internet no IFRN Campus Canguaretama e estagiário de informática na Prefeitura de Baía Formosa. Gosto de desenvolver soluções web, aprender novas tecnologias e transformar ideias em projetos práticos.
+
+**Missão atual:** aprimorar meus conhecimentos em desenvolvimento web, Java, bancos de dados e Linux.
 
 <h2 align="center">⚙️ Arsenal tecnológico</h2>
 
@@ -40,17 +37,17 @@
 </table>
 </div>
 
-<div align="center">
-  <img src="./assets/stark-mark-02.svg" width="100%" alt="Stark Projects Mark 02: Banco de Dados, Calculadora Web, IFRN Extensão e teste-1" />
-  <br /><br />
-  <a href="https://github.com/gabrielsantogtr/Banco-de-Dados">Banco de Dados</a> ·
-  <a href="https://github.com/gabrielsantogtr/calculadora">Calculadora Web</a> ·
-  <a href="https://github.com/vicccviccc/ifrncangVRGP">IFRN — Projetos de Extensão (colaborativo)</a> ·
-  <a href="https://github.com/gabrielsantogtr/teste-1">teste-1</a>
-  <br /><br />
-  <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/repositorios-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Meus repositórios" /></a>
-  <a href="https://github.com/gabrielsantogtr?tab=overview"><img src="https://img.shields.io/badge/atividade-b91c2b?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Minha atividade" /></a>
-</div>
+
+
+## 🛡️ Hall das Armaduras — Projetos
+
+| Armadura | Projeto | Tecnologias |
+| --- | --- | --- |
+| MARK 01 | [Banco de Dados](https://github.com/gabrielsantogtr/Banco-de-Dados) — modelagem e implementação SQL | MySQL, SQL |
+| MARK 02 | [Calculadora Web](https://github.com/gabrielsantogtr/calculadora) — operações matemáticas e interface responsiva | HTML, CSS, JS |
+| MARK 03 | [IFRN — Projetos de Extensão](https://github.com/vicccviccc/ifrncangVRGP) — vitrine de projetos, contribuição em equipe | HTML, CSS, JS |
+
+<div align="center"><img src="./assets/jarvis-panel.svg" width="100%" alt="Painel JARVIS" /></div>
 
 <h2 align="center">📡 Central de Monitoramento JARVIS</h2>
 <div align="center">
@@ -65,8 +62,10 @@
   <br /><img width="100%" src="https://raw.githubusercontent.com/gabrielsantogtr/gabrielsantogtr/output/snake.svg" alt="Animação de contribuições JARVIS" />
 </div>
 
-<h2 align="center">🛠️ Laboratório Stark</h2>
-<div align="center">
-  <p>Projetos de estudo, experimentos e novas ideias.</p>
-  <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/Explorar_projetos-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Explorar projetos" /></a>
-</div>
+
+
+## 📡 Contato e outros projetos
+
+[Meus repositórios](https://github.com/gabrielsantogtr?tab=repositories) · [Minha atividade](https://github.com/gabrielsantogtr?tab=overview)
+
+<div align="center"><b>STARK INDUSTRIES 3.0 — Evoluindo a cada commit.</b></div>
