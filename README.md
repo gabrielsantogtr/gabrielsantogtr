@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/SOUNDTRACK-Back_in_Black-d5a347?style=for-the-badge&amp;logo=youtube" alt="Back in Black" /></a>
 </div>
 
-## Sobre mim
+<div align="center"><img src="./assets/operator-dossier-v31.svg" width="100%" alt="Sobre mim — Dossiê do operador JARVIS" /></div>
 
 Sou estudante de Tecnologia em Sistemas para Internet no IFRN Campus Canguaretama e estagiário de informática na Prefeitura de Baía Formosa. Gosto de desenvolver soluções web, aprender novas tecnologias e transformar ideias em projetos práticos.
 
@@ -40,7 +40,7 @@ Sou estudante de Tecnologia em Sistemas para Internet no IFRN Campus Canguaretam
 
 
 <div align="center">
-<img src="./assets/hall-armaduras-v3.svg" width="100%" alt="Hall das Armaduras — MARK 01 Banco de Dados, MARK 02 Calculadora Web, MARK 03 IFRN Extensão" />
+<img src="./assets/hall-armaduras-v31.svg" width="100%" alt="Hall das Armaduras — MARK 01 Banco de Dados, MARK 02 Calculadora Web, MARK 03 IFRN Extensão" />
 <br />
 <a href="https://github.com/gabrielsantogtr/Banco-de-Dados">MARK 01 — Banco de Dados</a> ·
 <a href="https://github.com/gabrielsantogtr/calculadora">MARK 02 — Calculadora</a> ·
