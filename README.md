@@ -46,10 +46,17 @@
   <a href="https://github.com/gabrielsantogtr?tab=overview"><img src="https://img.shields.io/badge/atividade-b91c2b?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Minha atividade" /></a>
 </div>
 
-<h2 align="center">📡 Telemetria GitHub</h2>
+<h2 align="center">📡 Central de Monitoramento JARVIS</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielsantogtr&amp;show_icons=true&amp;title_color=d5a347&amp;icon_color=ff555d&amp;text_color=fff2dc&amp;bg_color=16090b&amp;border_color=a92b32" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantogtr&amp;layout=compact&amp;title_color=d5a347&amp;text_color=fff2dc&amp;bg_color=16090b&amp;border_color=a92b32" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantogtr&amp;layout=donut&amp;title_color=d5a347&amp;text_color=fff2dc&amp;bg_color=16090b&amp;border_color=a92b32" alt="Linguagens mais utilizadas" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsantogtr&amp;bg_color=16090b&amp;color=d5a347&amp;line=ff555d&amp;point=fff2dc&amp;area=true&amp;hide_border=false" alt="Gráfico de atividades" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=gabrielsantogtr&amp;background=16090b&amp;border=a92b32&amp;ring=d5a347&amp;fire=ff555d&amp;currStreakNum=fff2dc&amp;sideNums=fff2dc&amp;currStreakLabel=d5a347&amp;sideLabels=d5a347&amp;dates=f8e2ce" alt="Sequência de contribuições" />
+  <br /><img width="100%" src="https://raw.githubusercontent.com/gabrielsantogtr/gabrielsantogtr/output/snake.svg" alt="Animação de contribuições JARVIS" />
 </div>
 
 <h2 align="center">🛠️ Laboratório Stark</h2>
