@@ -39,13 +39,13 @@ Sou estudante de Tecnologia em Sistemas para Internet no IFRN Campus Canguaretam
 
 
 
-## 🛡️ Hall das Armaduras — Projetos
-
-| Armadura | Projeto | Tecnologias |
-| --- | --- | --- |
-| MARK 01 | [Banco de Dados](https://github.com/gabrielsantogtr/Banco-de-Dados) — modelagem e implementação SQL | MySQL, SQL |
-| MARK 02 | [Calculadora Web](https://github.com/gabrielsantogtr/calculadora) — operações matemáticas e interface responsiva | HTML, CSS, JS |
-| MARK 03 | [IFRN — Projetos de Extensão](https://github.com/vicccviccc/ifrncangVRGP) — vitrine de projetos, contribuição em equipe | HTML, CSS, JS |
+<div align="center">
+<img src="./assets/hall-armaduras-v3.svg" width="100%" alt="Hall das Armaduras — MARK 01 Banco de Dados, MARK 02 Calculadora Web, MARK 03 IFRN Extensão" />
+<br />
+<a href="https://github.com/gabrielsantogtr/Banco-de-Dados">MARK 01 — Banco de Dados</a> ·
+<a href="https://github.com/gabrielsantogtr/calculadora">MARK 02 — Calculadora</a> ·
+<a href="https://github.com/vicccviccc/ifrncangVRGP">MARK 03 — IFRN Extensão</a>
+</div>
 
 <div align="center"><img src="./assets/jarvis-panel.svg" width="100%" alt="Painel JARVIS" /></div>
 
