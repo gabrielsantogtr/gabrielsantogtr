@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/projects-retro.svg" width="100%" alt="Stark Projects Mark 02: Banco de Dados, Calculadora Web, IFRN Extensão e teste-1" />
+  <img src="./assets/stark-mark-02.svg" width="100%" alt="Stark Projects Mark 02: Banco de Dados, Calculadora Web, IFRN Extensão e teste-1" />
   <br /><br />
   <a href="https://github.com/gabrielsantogtr/Banco-de-Dados">Banco de Dados</a> ·
   <a href="https://github.com/gabrielsantogtr/calculadora">Calculadora Web</a> ·
