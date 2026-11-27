@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="100%" alt="Homem de Ferro" />
   <br /><br />
-  <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B6%20AC%2FDC%20%E2%80%94%20Back%20in%20Black-b2acd0?style=for-the-badge&amp;logo=youtube&amp;logoColor=171421" alt="Ouvir Back in Black — AC/DC no YouTube" /></a>
+  <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B6%20AC%2FDC%20%E2%80%94%20Back%20in%20Black-d5a347?style=for-the-badge&amp;logo=youtube&amp;logoColor=210b0c" alt="Ouvir Back in Black — AC/DC no YouTube" /></a>
   <br />
   <br />
   <img src="./assets/profile-retro.svg" width="100%" alt="Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
@@ -28,7 +28,7 @@
     </td>
     <td valign="top" align="center">
       <b>Ferramentas</b><br /><br />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" title="VS Code" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/e9e0f1"><img src="https://cdn.simpleicons.org/github/242033" width="46" height="46" alt="GitHub" title="GitHub" /></picture><br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="46" height="46" alt="VS Code" title="VS Code" />&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/f4c56e"><img src="https://cdn.simpleicons.org/github/9e2029" width="46" height="46" alt="GitHub" title="GitHub" /></picture><br /><br />
     </td>
   </tr>
 </table>
@@ -41,8 +41,8 @@
   <a href="https://github.com/gabrielsantogtr/teste-1">teste-1</a> ·
   <a href="./calculadora">Calculadora Web</a>
   <br /><br />
-  <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/repositorios-b2acd0?style=for-the-badge&amp;logo=github&amp;logoColor=171421" alt="Meus repositórios" /></a>
-  <a href="https://github.com/gabrielsantogtr?tab=overview"><img src="https://img.shields.io/badge/atividade-ef739e?style=for-the-badge&amp;logo=github&amp;logoColor=171421" alt="Minha atividade" /></a>
+  <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/repositorios-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Meus repositórios" /></a>
+  <a href="https://github.com/gabrielsantogtr?tab=overview"><img src="https://img.shields.io/badge/atividade-b91c2b?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Minha atividade" /></a>
 </div>
 
 ---
