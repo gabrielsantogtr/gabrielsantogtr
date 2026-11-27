@@ -64,9 +64,3 @@
   <p>Projetos de estudo, experimentos e novas ideias.</p>
   <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/Explorar_projetos-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Explorar projetos" /></a>
 </div>
-
----
-
-<div align="center">
-  <p><i>Aprendendo na prática, um projeto de cada vez.</i></p>
-</div>
