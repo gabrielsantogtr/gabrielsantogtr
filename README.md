@@ -1,7 +1,7 @@
 <div align="center">
   <table align="center" width="100%">
     <tr><td align="center"><img src="./assets/stark-screen-top.svg" width="850" alt="Stark Industries — JARVIS online" /></td></tr>
-    <tr><td align="center"><img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="850" alt="Homem de Ferro na tela Stark" /></td></tr>
+    <tr><td align="center"><img src="./assets/iron-man-arcade.svg" width="850" alt="Homem de Ferro pixel art animado na tela Stark" /></td></tr>
     <tr><td align="center"><img src="./assets/stark-screen-bottom.svg" width="850" alt="Reator Arc — sistema ativo" /></td></tr>
   </table>
   <br /><br />
