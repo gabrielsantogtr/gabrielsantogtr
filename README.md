@@ -37,9 +37,11 @@
 </div>
 
 <div align="center">
-  <img src="./assets/projects-retro.svg" width="100%" alt="Meus projetos: Banco de Dados e teste-1" />
+  <img src="./assets/projects-retro.svg" width="100%" alt="Stark Projects Mark 02: Banco de Dados, Calculadora Web, IFRN Extensão e teste-1" />
   <br /><br />
   <a href="https://github.com/gabrielsantogtr/Banco-de-Dados">Banco de Dados</a> ·
+  <a href="https://github.com/gabrielsantogtr/calculadora">Calculadora Web</a> ·
+  <a href="https://github.com/vicccviccc/ifrncangVRGP">IFRN — Projetos de Extensão (colaborativo)</a> ·
   <a href="https://github.com/gabrielsantogtr/teste-1">teste-1</a>
   <br /><br />
   <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/repositorios-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Meus repositórios" /></a>
