@@ -61,14 +61,6 @@
   <br /><img width="100%" src="https://raw.githubusercontent.com/gabrielsantogtr/gabrielsantogtr/output/snake.svg" alt="Animação de contribuições JARVIS" />
 </div>
 
-<h2 align="center">🎮 Iron Man — Missão Stark</h2>
-<div align="center">
-<p>Defenda a base Stark dos drones inimigos. Supere seu recorde!</p>
-<a href="https://gabrielsantogtr.github.io/gabrielsantogtr/iron-man/"><img src="https://img.shields.io/badge/JOGAR-MISSÃO_STARK-b91c2b?style=for-the-badge&amp;logo=github&amp;logoColor=f4c56e" alt="Jogar Missão Stark" /></a>
-<br />
-<a href="https://github.com/gabrielsantogtr/gabrielsantogtr/tree/main/iron-man">Código do jogo</a>
-</div>
-
 <h2 align="center">🛠️ Laboratório Stark</h2>
 <div align="center">
   <p>Projetos de estudo, experimentos e novas ideias.</p>
