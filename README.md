@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="100%" alt="Homem de Ferro" />
+  <br /><br />
+  <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B6%20AC%2FDC%20%E2%80%94%20Back%20in%20Black-b2acd0?style=for-the-badge&amp;logo=youtube&amp;logoColor=171421" alt="Ouvir Back in Black — AC/DC no YouTube" /></a>
+  <br />
   <br />
   <img src="./assets/profile-retro.svg" width="100%" alt="Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
 </div>
