@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="100%" alt="Homem de Ferro" />
+  <table align="center" width="100%">
+    <tr><td align="center"><img src="./assets/stark-screen-top.svg" width="850" alt="Stark Industries — JARVIS online" /></td></tr>
+    <tr><td align="center"><img src="https://media1.tenor.com/m/z74B5C809U0AAAAd/iron-man.gif" width="850" alt="Homem de Ferro na tela Stark" /></td></tr>
+    <tr><td align="center"><img src="./assets/stark-screen-bottom.svg" width="850" alt="Reator Arc — sistema ativo" /></td></tr>
+  </table>
   <br /><br />
   <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/PLAY%20%E2%96%B6%20AC%2FDC%20%E2%80%94%20Back%20in%20Black-d5a347?style=for-the-badge&amp;logo=youtube&amp;logoColor=210b0c" alt="Ouvir Back in Black — AC/DC no YouTube" /></a>
   <br />
