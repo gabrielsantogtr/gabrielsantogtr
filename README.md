@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/stark-v3.svg" width="100%" alt="Stark Industries 3.0 — Gabriel Santos" />
-<img src="./assets/iron-man-arcade.svg" width="100%" alt="Iron Man arcade animado" />
+<img src="./assets/iron-man-night-patrol.svg" width="100%" alt="Iron Man arcade animado" />
 <a href="https://www.youtube.com/watch?v=pAgnJDJN4VA"><img src="https://img.shields.io/badge/SOUNDTRACK-Back_in_Black-d5a347?style=for-the-badge&amp;logo=youtube" alt="Back in Black" /></a>
 </div>
 
