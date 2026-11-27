@@ -7,7 +7,9 @@
   <img src="./assets/profile-retro.svg" width="100%" alt="Gabriel, estudante de TSI no IFRN Campus Canguaretama" />
 </div>
 
-<h2 align="center">Tecnologias</h2>
+<div align="center"><img src="./assets/jarvis-panel.svg" width="100%" alt="Painel JARVIS e reator Arc" /></div>
+
+<h2 align="center">⚙️ Arsenal tecnológico</h2>
 
 <div align="center">
 <table>
@@ -43,6 +45,19 @@
   <br /><br />
   <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/repositorios-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Meus repositórios" /></a>
   <a href="https://github.com/gabrielsantogtr?tab=overview"><img src="https://img.shields.io/badge/atividade-b91c2b?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Minha atividade" /></a>
+</div>
+
+<h2 align="center">📡 Telemetria GitHub</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsantogtr&amp;show_icons=true&amp;title_color=d5a347&amp;icon_color=ff555d&amp;text_color=fff2dc&amp;bg_color=16090b&amp;border_color=a92b32" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantogtr&amp;layout=compact&amp;title_color=d5a347&amp;text_color=fff2dc&amp;bg_color=16090b&amp;border_color=a92b32" alt="Linguagens mais utilizadas" />
+</div>
+
+<h2 align="center">🛠️ Laboratório Stark</h2>
+<div align="center">
+  <a href="./calculadora"><img src="https://img.shields.io/badge/Calculadora_Web-HTML%20%7C%20CSS%20%7C%20JS-b91c2b?style=for-the-badge&amp;logo=javascript&amp;logoColor=fff2dc" alt="Projeto Calculadora Web" /></a>
+  <p>Projetos de estudo, experimentos e novas ideias.</p>
+  <a href="https://github.com/gabrielsantogtr?tab=repositories"><img src="https://img.shields.io/badge/Explorar_projetos-d5a347?style=for-the-badge&amp;logo=github&amp;logoColor=210b0c" alt="Explorar projetos" /></a>
 </div>
 
 ---
